@@ -1,0 +1,6 @@
+framework module Pods_Emlakzone1 {
+  umbrella header "Pods-Emlakzone1-umbrella.h"
+
+  export *
+  module * { export * }
+}
